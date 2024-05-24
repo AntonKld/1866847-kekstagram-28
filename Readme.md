@@ -1,4 +1,4 @@
-# Личный проект «Кекстаграм»
+Проект можно посмотреть здесь [kekstagram](https://antonkld.github.io/1866847-kekstagram-28/)
 
 * Студент: [Антон Кольцов](https://up.htmlacademy.ru/javascript/28/user/1866847).
 * Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov)
